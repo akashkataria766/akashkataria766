@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Akash Kataria
+  # Aakash Kataria
 
   <p align="center">
     <b>Building robust database-first architectures, desktop security utilities, intelligent AI systems, and modern mobile & web applications.</b>
