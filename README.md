@@ -3,51 +3,70 @@
   <img src="assets/Indian_Air_Force_Crest.svg" alt="Indian Air Force Crest" width="130" />
 
   # 🇮🇳 Touch the Sky with Glory
-  ### 94th Indian Air Force Day Commemorative Digital Tribute
-  **नभः स्पृशं दीप्तम् • 8 October 2026**
+  ### Indian Air Force — Digital Aerospace Platform & National Tribute
+  **नभः स्पृशं दीप्तम् • Conceived for Air Force Day, Continued Forever**
 
   <p align="center">
     <a href="https://indianairforce-sky.vercel.app">
-      <img src="https://img.shields.io/badge/🔗_LIVE_DEMO-indianairforce--sky.vercel.app-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+      <img src="https://img.shields.io/badge/🔗_LIVE_PLATFORM-indianairforce--sky.vercel.app-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Platform" />
     </a>
     <img src="https://img.shields.io/badge/Next.js_16-Turbopack-black?style=for-the-badge&logo=next.js" alt="Next.js 16" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-Tactical_UI-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/Motion-60fps_Physics-FF9933?style=for-the-badge&logo=framer" alt="Motion" />
   </p>
 
   <p align="center">
-    <b>A high-performance aerospace digital tribute honoring the valor, technological supremacy, and supreme sacrifice of the Indian Air Force.</b>
+    <b>A high-utility aerospace repository, combat aircraft comparator, and permanent national defense sanctuary honoring the Indian Air Force.</b>
   </p>
 
-  ---
-
   <p align="center">
-    <a href="https://indianairforce-sky.vercel.app"><b>🚀 Click Here to Open the Live Website</b></a>
+    <a href="https://indianairforce-sky.vercel.app"><b>🚀 Open the Live Platform (indianairforce-sky.vercel.app)</b></a>
   </p>
 
 </div>
 
 ---
 
-## 📖 The Story Behind This Project
+## 📖 The Story Behind This Project: From a Tribute to an Evergreen Sanctuary
 
-> *"Every year on October 8th, the skies over India roar with pride as the Indian Air Force celebrates its anniversary since its inception in 1932. As a software developer and proud citizen, I wanted to build something far beyond a standard template — an authentic, high-octane aerospace experience that brings the roar of afterburners, the precision of combat aviation, and the sacred memory of our martyrs directly to every screen."*
-
-I engineered this project as a tribute to the men and women who safeguard 1.4 billion citizens across 7 operational commands. From the delta-wing agility of the **Dassault Rafale** and indigenous **HAL Tejas**, to the eternal flame at the **National War Memorial**, this website captures the spirit of **"Touch the Sky with Glory" (नभः स्पृशं दीप्तम्)**.
-
----
-
-## 🔗 Live Interactive Experience
-
-| Platform | Direct URL |
-|---|---|
-| **Live Showcase** | [https://indianairforce-sky.vercel.app](https://indianairforce-sky.vercel.app) |
-| **Best Viewed On** | 📱 Rotate phone to **Landscape Mode** for panoramic Cockpit View, or any desktop browser |
-| **Hosting** | Deployed on **Vercel Global Edge Network** (Mumbai `bom1` Node, sub-40ms latency) |
+> *"Every year on October 8th, the skies over India roar with pride as the Indian Air Force marks its anniversary. As a software developer and proud citizen, I initially built this as a high-octane tribute for Air Force Day — complete with supersonic flypasts, tricolor vapor trails, and digital honors.*
+>
+> *Once the day concluded, most event sites suffer the same fate: their countdowns expire, they turn stale, and they get abandoned. Rather than taking it down or letting it become an expired flyer, I re-architected it into an **evergreen, 365-day high-utility aerospace platform**.*
+>
+> *What was created for Air Force Day this year will now continue forever — serving defense aspirants preparing for exams, aviation enthusiasts comparing aircraft specs, and patriotic citizens paying homage 365 days a year."*
 
 ---
 
-## ✈️ Visual Showcase
+## ⚡ Flagship Interactive Modules
+
+* **⚔️ Tactical Combat Aircraft Comparator**:
+  * Side-by-side performance duels (Rafale vs Su-30MKI, Tejas Mk1A vs Tejas Mk2, Apache vs Prachand, C-17 vs C-130J).
+  * Comparative telemetry progress meters for top velocity (Mach), range envelope, and service ceiling.
+  * Direct system-level matrix for AESA/PESA radars and stand-off munitions (Meteor, SCALP, BrahMos-A, Astra Mk1).
+
+* **🎖️ Air Warrior Aspirant Hub**:
+  * **Commissioned Rank Hierarchy**: All 10 officer ranks displayed in descending seniority from **Marshal of the Indian Air Force (5-Star)** down to **Flying Officer (Entry Cadre)** with shoulder board sleeve stripes and Tri-Service equivalents (Army & Navy).
+  * **Branch Pathways Finder**: Complete eligibility criteria and testing pipelines for AFCAT, UPSC NDA, UPSC CDS, NCC Special Entry, and the new Weapon Systems (WS) branch.
+  * **5-Question Daily Tactical Challenge**: Interactive aerospace general awareness quiz with instant explanations and score tracking.
+
+* **🗺️ 7 Operational Commands & Forward Airbases Matrix**:
+  * Comprehensive matrix of all 7 IAF Commands mapped with primary frontline air bases (Ambala, Hasimara, Gwalior, Bareilly, Pune, Tezpur, Sulur, Leh AFS).
+
+* **🪔 Permanent Amar Jawan Memorial & Hall of Valor**:
+  * Digital eternal flame at the *Amar Jawan Jyoti* with a persistent citizen tribute tally.
+  * Web Audio API-synthesized ceremonial memorial chime (146.83 Hz D3 fundamental).
+  * Citations of Param Vir Chakra Flying Officer Nirmal Jit Singh Sekhon, Cosmonaut Wing Commander Rakesh Sharma, and war heroes of 1965, 1971, and Kargil.
+
+* **⏱️ Mission Countdown to 95th Air Force Day**:
+  * Actively counting down to **08 October 2027 (95th IAF Anniversary)** with aerospace precision.
+
+* **🌐 Verified Official IAF Channels & Portals**:
+  * Direct access to official media handles: Instagram ([`@indianairforce`](https://www.instagram.com/indianairforce/)), Twitter / X ([`@IAF_MCC`](https://x.com/IAF_MCC)), YouTube, and Facebook.
+  * Quick links to official recruitment portals (`afcat.cdac.in`, `careerindianairforce.cdac.in`, `agnipathvayu.cdac.in`).
+
+---
+
+## ✈️ Visual Fleet Showcase
 
 <div align="center">
   <table>
@@ -80,64 +99,47 @@ I engineered this project as a tribute to the men and women who safeguard 1.4 bi
 
 ---
 
-## ⚡ Core Interactive Features
-
-* **🚀 Supersonic Airshow Flypast Engine**:
-  * Simulates precision formation flypasts (Trishul, Vic, Delta Lead) featuring authentic Sukhoi Su-30MKI, Rafale, and Tejas SVG interceptors.
-  * Emits dynamic tricolor billowing vapor trails (Saffron, White, and India Green).
-  * Synthesizes realistic supersonic jet engine Doppler roar using the native Web Audio API.
-
-* **⏱️ Tactical 24-Hour Military Telemetry**:
-  * Live Indian Standard Military Time (`HH:mm:ss HRS IST`) integrated into the header.
-  * Memoized non-jitter countdown clock ticking toward 8 October 2026.
-  * Fluid zoom in / zoom out controls (`80%` to `130%`).
-
-* **🌸 Pushpa Varsha (Ceremonial Helicopter Flower Shower)**:
-  * Traditional parade protocol where Mi-17 and ALH Dhruv helicopters drop rose and marigold petals over the grounds.
-  * Features 42 GPU-accelerated flower petals falling with harmonic chime audio.
-
-* **🛡️ Combat Fleet Arsenal & Telemetry**:
-  * High-resolution photographs and specifications for 12 IAF aircraft (Rafale, Su-30MKI, Tejas Mk1/Mk2, Mirage 2000, Jaguar, C-17, C-130J, Apache, Chinook, Prachand).
-  * Interactive modal spec sheets detailing max velocity, combat range, service ceiling, and weapon payloads.
-
-* **🕯️ Amar Jawan Memorial (Cloud Homage Counter)**:
-  * Persistent citizen tribute counter powered by CountAPI cloud endpoints honoring Param Vir Chakra heroes (Flying Officer Nirmal Jit Singh Sekhon, Marshal of the IAF Arjan Singh).
-
-* **📺 Official Live Broadcast & Telecast Guide**:
-  * Instant access to DD National HD, Official IAF YouTube channel (`@IndianAirForce_mcc`), and official X handle (`@IAF_MCC`).
-
-* **📱 Mobile Landscape Cockpit Mode**:
-  * Smart viewport intelligence: Rotating any smartphone horizontally transforms the interface into a wide-screen panoramic cockpit view.
-
----
-
-## 🛠️ Technology Stack
+## 🛠️ Technology Stack & Engineering Standards
 
 | Layer | Technologies |
 |---|---|
 | **Framework** | **Next.js 16** (App Router, Turbopack, 100% Static HTML/CSS/JS export) |
-| **UI & Styling** | **React 19**, **Tailwind CSS v4**, **Lucide React**, Watermelon UI design tokens |
-| **Physics & Animations** | **Motion (Framer Motion)** with 60fps GPU hardware acceleration (`translate3d`) |
-| **Audio Engine** | Native **Web Audio API (`AudioContext`)** pink-noise & harmonic chime synthesizer |
+| **Language** | **TypeScript** (Strict typing, 0 build warnings, 0 runtime errors) |
+| **UI & Styling** | **Tailwind CSS**, Lucide React, Tactical Dark & Clean Light theme system |
+| **Physics & Animations** | **Motion** with 60fps GPU hardware acceleration (`translate3d`) |
+| **Audio Synthesis** | Native **Web Audio API (`AudioContext`)** procedural jet roar & harmonic memorial chime |
 | **Data & Cloud** | **CountAPI** for persistent homage counter + local storage fallback |
 | **SEO & Discovery** | Schema.org JSON-LD structured data, dynamic OpenGraph meta tags, `sitemap.xml`, `robots.txt` |
 | **Edge Hosting** | **Vercel Global Edge CDN** (sub-40ms response in India) |
 
 ---
 
-## 🎖️ Param Vir Chakra Citation
+## 👨‍💻 About the Creator & Engineering Portfolio
 
-> *"Flying Officer Nirmal Jit Singh Sekhon was awarded the Param Vir Chakra (posthumous) for sublime heroism during the 1971 War. Flying a Folland Gnat over Srinagar Airfield under direct attack by six enemy Sabre jets, he engaged the entire enemy formation single-handedly, scoring decisive hits before making the supreme sacrifice."*
+Hi, I'm **Akash Kataria** — a Full-Stack Engineer and Frontend Architect passionate about crafting mission-critical, high-performance web applications with immersive design, bulletproof type safety, and product-driven architecture.
+
+### 🌟 Featured Engineering Portfolio
+
+| Project | Domain | Tech Stack | Highlights |
+|---|---|---|---|
+| [**Indian Air Force Portal**](https://indianairforce-sky.vercel.app) | Aerospace & Defense | Next.js 16, TypeScript, Tailwind, Web Audio API | Interactive combat aircraft comparator, aspirant career hub, rank ladder, and 60fps supersonic flight simulator. |
+| *[Add Your Project 2]* | Full-Stack Web App | React, Node.js, Express, MongoDB | Scalable web application with authentication, real-time sync, and RESTful APIs. |
+| *[Add Your Project 3]* | SaaS / Dev Tool | Next.js, PostgreSQL, Tailwind CSS | High-converting responsive dashboard with analytics and automated pipelines. |
+
+---
+
+### 📬 Connect With Me
+
+* **GitHub**: [@akashkataria766](https://github.com/akashkataria766)
+* **LinkedIn**: [Akash Kataria](https://linkedin.com) *(Add your link)*
+* **Portfolio / Live Showcase**: [indianairforce-sky.vercel.app](https://indianairforce-sky.vercel.app)
 
 ---
 
 ## 📜 Disclaimer
-
-This project is an independent personal digital tribute created for educational, portfolio, and national commemorative purposes. It is non-official and non-commercial. All official emblems, citations, and aircraft photography belong to their respective copyright holders.
-
----
+*This project is an independent personal digital tribute and aerospace educational resource created for portfolio showcase and national homage purposes. It is non-official and non-commercial. All official emblems, citations, and aircraft photography belong to their respective copyright holders.*
 
 <div align="center">
-  <p><b>Made with reverence and devotion for the Indian Armed Forces 🇮🇳</b></p>
-  <p><b>JAI HIND! VANDEMATARAM!</b></p>
+  <p><b>Created & engineered with devotion for the Indian Armed Forces 🇮🇳</b></p>
+  <p><b>जय हिन्द • वंदे मातरम्</b></p>
 </div>
