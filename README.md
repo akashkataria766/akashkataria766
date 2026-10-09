@@ -1,145 +1,97 @@
 <div align="center">
 
-  <img src="assets/Indian_Air_Force_Crest.svg" alt="Indian Air Force Crest" width="130" />
-
-  # 🇮🇳 Touch the Sky with Glory
-  ### Indian Air Force — Digital Aerospace Platform & National Tribute
-  **नभः स्पृशं दीप्तम् • Conceived for Air Force Day, Continued Forever**
+  # Akash Kataria
 
   <p align="center">
-    <a href="https://indianairforce-sky.vercel.app">
-      <img src="https://img.shields.io/badge/🔗_LIVE_PLATFORM-indianairforce--sky.vercel.app-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Platform" />
+    <b>Building robust database-first architectures, desktop security utilities, intelligent AI systems, and modern mobile & web applications.</b>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/akashkataria766">
+      <img src="https://img.shields.io/github/followers/akashkataria766?label=Followers&style=flat-square&color=2563EB" alt="Followers" />
     </a>
-    <img src="https://img.shields.io/badge/Next.js_16-Turbopack-black?style=for-the-badge&logo=next.js" alt="Next.js 16" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-Tactical_UI-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Motion-60fps_Physics-FF9933?style=for-the-badge&logo=framer" alt="Motion" />
-  </p>
-
-  <p align="center">
-    <b>A high-utility aerospace repository, combat aircraft comparator, and permanent national defense sanctuary honoring the Indian Air Force.</b>
-  </p>
-
-  <p align="center">
-    <a href="https://indianairforce-sky.vercel.app"><b>🚀 Open the Live Platform (indianairforce-sky.vercel.app)</b></a>
+    <img src="https://img.shields.io/badge/Focus-High_Performance_Systems-0EA5E9?style=flat-square" alt="Focus" />
+    <img src="https://img.shields.io/badge/Architecture-Database--First_&_Clean_Code-10B981?style=flat-square" alt="Architecture" />
   </p>
 
 </div>
 
 ---
 
-## 📖 The Story Behind This Project: From a Tribute to an Evergreen Sanctuary
+### 🛠️ Core Technologies & Tools
 
-> *"Every year on October 8th, the skies over India roar with pride as the Indian Air Force marks its anniversary. As a software developer and proud citizen, I initially built this as a high-octane tribute for Air Force Day — complete with supersonic flypasts, tricolor vapor trails, and digital honors.*
->
-> *Once the day concluded, most event sites suffer the same fate: their countdowns expire, they turn stale, and they get abandoned. Rather than taking it down or letting it become an expired flyer, I re-architected it into an **evergreen, 365-day high-utility aerospace platform**.*
->
-> *What was created for Air Force Day this year will now continue forever — serving defense aspirants preparing for exams, aviation enthusiasts comparing aircraft specs, and patriotic citizens paying homage 365 days a year."*
-
----
-
-## ⚡ Flagship Interactive Modules
-
-* **⚔️ Tactical Combat Aircraft Comparator**:
-  * Side-by-side performance duels (Rafale vs Su-30MKI, Tejas Mk1A vs Tejas Mk2, Apache vs Prachand, C-17 vs C-130J).
-  * Comparative telemetry progress meters for top velocity (Mach), range envelope, and service ceiling.
-  * Direct system-level matrix for AESA/PESA radars and stand-off munitions (Meteor, SCALP, BrahMos-A, Astra Mk1).
-
-* **🎖️ Air Warrior Aspirant Hub**:
-  * **Commissioned Rank Hierarchy**: All 10 officer ranks displayed in descending seniority from **Marshal of the Indian Air Force (5-Star)** down to **Flying Officer (Entry Cadre)** with shoulder board sleeve stripes and Tri-Service equivalents (Army & Navy).
-  * **Branch Pathways Finder**: Complete eligibility criteria and testing pipelines for AFCAT, UPSC NDA, UPSC CDS, NCC Special Entry, and the new Weapon Systems (WS) branch.
-  * **5-Question Daily Tactical Challenge**: Interactive aerospace general awareness quiz with instant explanations and score tracking.
-
-* **🗺️ 7 Operational Commands & Forward Airbases Matrix**:
-  * Comprehensive matrix of all 7 IAF Commands mapped with primary frontline air bases (Ambala, Hasimara, Gwalior, Bareilly, Pune, Tezpur, Sulur, Leh AFS).
-
-* **🪔 Permanent Amar Jawan Memorial & Hall of Valor**:
-  * Digital eternal flame at the *Amar Jawan Jyoti* with a persistent citizen tribute tally.
-  * Web Audio API-synthesized ceremonial memorial chime (146.83 Hz D3 fundamental).
-  * Citations of Param Vir Chakra Flying Officer Nirmal Jit Singh Sekhon, Cosmonaut Wing Commander Rakesh Sharma, and war heroes of 1965, 1971, and Kargil.
-
-* **⏱️ Mission Countdown to 95th Air Force Day**:
-  * Actively counting down to **08 October 2027 (95th IAF Anniversary)** with aerospace precision.
-
-* **🌐 Verified Official IAF Channels & Portals**:
-  * Direct access to official media handles: Instagram ([`@indianairforce`](https://www.instagram.com/indianairforce/)), Twitter / X ([`@IAF_MCC`](https://x.com/IAF_MCC)), YouTube, and Facebook.
-  * Quick links to official recruitment portals (`afcat.cdac.in`, `careerindianairforce.cdac.in`, `agnipathvayu.cdac.in`).
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Databases & Systems** | Oracle Database, PL/SQL, Oracle APEX, SQL, Database-First Architecture, Data Modeling |
+| **Mobile & Desktop** | Android (Kotlin, Jetpack Compose, Media3 / ExoPlayer), C# (.NET, Windows Desktop, Windows Hello) |
+| **Web & Frameworks** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, Vite |
+| **Backend & Cloud** | Python (Flask, Streamlit), Node.js (Express), Firebase (Auth, Firestore), REST APIs |
+| **Security & Analytics** | AES-256 Encryption, PBKDF2, Cryptographic Protocols, Google Safe Browsing API, Pandas, NumPy, Plotly |
 
 ---
 
-## ✈️ Visual Fleet Showcase
+### 📂 Featured Public Projects
+
+#### 1. 🏛️ [Public Grievance Redressal System (PGRS)](https://github.com/akashkataria766/Public-Grievance-Redressal-System)
+> **Database-First Municipal Governance & Complaint Lifecycle Management Platform**
+* **Stack**: Oracle Database, PL/SQL, Oracle APEX
+* **Highlights**:
+  * **Database-First Governance**: Enforces business rules, role boundaries, and audit controls directly within Oracle Database and PL/SQL rather than client UI layers.
+  * **Deterministic 7-Stage Lifecycle**: Manages complaints through a structured state machine (`SUBMITTED` ➔ `ASSIGNED` ➔ `IN_PROGRESS` ➔ `RESOLVED` ➔ `VERIFICATION_PENDING` ➔ `CLOSED`), with overdue SLA escalation routes.
+  * **Automated Background Procedures**: Built-in routines for idempotent SLA breach escalation (`PGRS_AUTO_ESCALATE`), 7-day citizen auto-closure (`PGRS_AUTO_CLOSE_VERIFICATION`), and 5-year data archival (`PGRS_ARCHIVE_OLD_COMPLAINTS`).
+  * **Integrity & Immutability**: Protected by database triggers (`TRG_PGRS_DUE_DATE_LOCK`, `TRG_PGRS_NO_UPDATE_CLOSED`, `TRG_PGRS_LOG_IMMUTABLE`).
+
+---
+
+#### 2. 🎵 [Sky-Wave](https://github.com/akashkataria766/Sky-Wave)
+> **Modern Native Android Music & Audio Streaming Architecture**
+* **Stack**: Kotlin, Jetpack Compose, Android Architecture Components, Media3 / ExoPlayer
+* **Highlights**:
+  * **Multi-Module Clean Architecture**: Decoupled feature-first Gradle structure with independent domain, UI, database, network, and playback modules (`:core:core-playback`, `:feature:feature-player`, `:feature:feature-library`).
+  * **High-Fidelity Audio Playback**: Background audio service with system notification controls, playlist state synchronization, and offline cache management.
+
+---
+
+#### 3. 🤖 [Sky-Core](https://github.com/akashkataria766/Sky-Core)
+> **Private AI Companion Progressive Web App (PWA)**
+* **Stack**: React 19, TypeScript, Vite, Zustand, React Router v7, Firebase
+* **Highlights**:
+  * **Strict Gatekeeping State Machine**: 4-state user lifecycle verification (`PENDING_APPROVAL`, `APPROVED`, `REJECTED`, `BLOCKED`) controlling application access.
+  * **State & Route Guards**: Access control enforced through Zustand state management and React Router v7 with server-side Firestore Security Rules.
+  * **Structured Error Taxonomy**: Centralized error tracking architecture (`SS-401`, `SS-696`) with clear feedback mechanisms.
+
+---
+
+#### 4. 🔒 [Sky Secure Folders](https://github.com/akashkataria766/Sky-Secure-Folders)
+> **Windows Desktop Security Utility for File & Folder Protection**
+* **Stack**: C#, .NET, Windows Cryptography APIs
+* **Highlights**:
+  * **Robust File Encryption**: Protects local folders with AES-256 encryption and PBKDF2 key derivation.
+  * **Biometric Verification**: Optional authentication via Windows Hello for fast, biometric-backed folder access.
+  * **Filesystem Safety**: Atomic lock and restore pipelines preventing data corruption during cryptographic operations.
+
+---
+
+#### 5. 📊 [Consumer Transaction Data Analysis](https://github.com/akashkataria766/Consumer-Transaction-Data-Analysis)
+> **Automated Financial Transaction Analytics & Business Intelligence Dashboard**
+* **Stack**: Python 3.11, Streamlit, Pandas, NumPy, Plotly, openpyxl, Oracle SQL
+* **Highlights**:
+  * **Automated Data Hygiene**: Ingestion pipeline validating duplicate IDs, datetime formats, amount thresholds, and status consistency.
+  * **Statistical Anomaly Detection**: Interquartile range (IQR) outlier detection surfacing high-value irregular transactions.
+  * **Multi-Format Business Exports**: Interactive Plotly charts, static Matplotlib reports, automated multi-sheet openpyxl Excel exports, and Oracle SQL reporting queries.
+
+---
+
+#### 6. 🛡️ [Web Security Analyzer](https://github.com/akashkataria766/Web-Security-Analyzer)
+> **Heuristic URL Threat Scanner & Safe Browsing Triage Tool**
+* **Stack**: Python, Flask, Google Safe Browsing API, pytest
+* **Highlights**:
+  * **Multi-Vector Threat Detection**: Inspects homoglyphs/punycode impersonation (`go0gle.com`), suspicious subdomains, embedded credentials, and abnormal ports.
+  * **Dual Verification**: Combines local heuristic risk scoring with Google Safe Browsing API cloud threat intelligence.
+  * **Deterministic Test Suite**: Comprehensive offline unit testing suite built with `pytest`.
+
+---
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="assets/Dassault_Rafale_IAF.jpg" alt="Dassault Rafale IAF" width="100%" />
-        <br />
-        <b>Dassault Rafale — 4.5+ Gen Omnirole Fighter</b>
-      </td>
-      <td width="50%" align="center">
-        <img src="assets/LCA_Tejas_Mk1_IAF.jpg" alt="LCA Tejas Mk1 IAF" width="100%" />
-        <br />
-        <b>HAL Tejas Mk1 — Indigenous Supersonic Fighter</b>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <img src="assets/MiG-29UPG_IAF.jpg" alt="MiG-29UPG IAF" width="100%" />
-        <br />
-        <b>MiG-29UPG — Air Superiority Interceptor</b>
-      </td>
-      <td width="50%" align="center">
-        <img src="assets/C-17_Globemaster_III_IAF.jpg" alt="C-17 Globemaster III IAF" width="100%" />
-        <br />
-        <b>C-17 Globemaster III — Strategic Heavy Airlift</b>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🛠️ Technology Stack & Engineering Standards
-
-| Layer | Technologies |
-|---|---|
-| **Framework** | **Next.js 16** (App Router, Turbopack, 100% Static HTML/CSS/JS export) |
-| **Language** | **TypeScript** (Strict typing, 0 build warnings, 0 runtime errors) |
-| **UI & Styling** | **Tailwind CSS**, Lucide React, Tactical Dark & Clean Light theme system |
-| **Physics & Animations** | **Motion** with 60fps GPU hardware acceleration (`translate3d`) |
-| **Audio Synthesis** | Native **Web Audio API (`AudioContext`)** procedural jet roar & harmonic memorial chime |
-| **Data & Cloud** | **CountAPI** for persistent homage counter + local storage fallback |
-| **SEO & Discovery** | Schema.org JSON-LD structured data, dynamic OpenGraph meta tags, `sitemap.xml`, `robots.txt` |
-| **Edge Hosting** | **Vercel Global Edge CDN** (sub-40ms response in India) |
-
----
-
-## 👨‍💻 About the Creator & Engineering Portfolio
-
-Hi, I'm **Akash Kataria** — a Full-Stack Engineer and Frontend Architect passionate about crafting mission-critical, high-performance web applications with immersive design, bulletproof type safety, and product-driven architecture.
-
-### 🌟 Featured Engineering Portfolio
-
-| Project | Domain | Tech Stack | Highlights |
-|---|---|---|---|
-| [**Indian Air Force Portal**](https://indianairforce-sky.vercel.app) | Aerospace & Defense | Next.js 16, TypeScript, Tailwind, Web Audio API | Interactive combat aircraft comparator, aspirant career hub, rank ladder, and 60fps supersonic flight simulator. |
-| *[Add Your Project 2]* | Full-Stack Web App | React, Node.js, Express, MongoDB | Scalable web application with authentication, real-time sync, and RESTful APIs. |
-| *[Add Your Project 3]* | SaaS / Dev Tool | Next.js, PostgreSQL, Tailwind CSS | High-converting responsive dashboard with analytics and automated pipelines. |
-
----
-
-### 📬 Connect With Me
-
-* **GitHub**: [@akashkataria766](https://github.com/akashkataria766)
-* **LinkedIn**: [Akash Kataria](https://linkedin.com) *(Add your link)*
-* **Portfolio / Live Showcase**: [indianairforce-sky.vercel.app](https://indianairforce-sky.vercel.app)
-
----
-
-## 📜 Disclaimer
-*This project is an independent personal digital tribute and aerospace educational resource created for portfolio showcase and national homage purposes. It is non-official and non-commercial. All official emblems, citations, and aircraft photography belong to their respective copyright holders.*
-
-<div align="center">
-  <p><b>Created & engineered with devotion for the Indian Armed Forces 🇮🇳</b></p>
-  <p><b>जय हिन्द • वंदे मातरम्</b></p>
+  <p><b>Akash Kataria • <a href="https://github.com/akashkataria766">github.com/akashkataria766</a></b></p>
 </div>
